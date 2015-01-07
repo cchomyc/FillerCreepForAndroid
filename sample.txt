@@ -1,2 +1,3 @@
 yay text!
-Addded more text via github!
+Added more text via github!
+Added even more text on github!
