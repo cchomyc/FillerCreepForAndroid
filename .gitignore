@@ -1,0 +1,6 @@
+# can find example .gitignore on google
+# remember to cite url and date if you copy one!
+
+# generated files
+bin/
+gen/
